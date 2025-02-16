@@ -169,7 +169,6 @@ function App() {
       <footer className="border-t border-white/10 py-8 bg-black">
         <div className="container mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-4">
           <div className="flex items-center gap-2">
-            <img src="/logo.png" alt="Sync3 Logo" className="w-8 h-8" />
             <span className="font-semibold">Sync3</span>
           </div>
           <div className="text-gray-400">© 2025 Sync3. All rights reserved.</div>
