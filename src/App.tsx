@@ -13,7 +13,6 @@ function App() {
         <header className="container mx-auto px-6 pt-6">
           <nav className="flex items-center justify-between">
             <div className="flex items-center gap-2">
-              <img src="/logo.png" alt="Sync3 Logo" className="w-12 h-12" />
               <span className="text-xl font-bold">Sync3</span>
             </div>
             <button className="bg-yellow-400 hover:bg-yellow-500 text-black font-semibold py-2 px-6 rounded-full transition-all">
