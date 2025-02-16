@@ -16,7 +16,10 @@ function App() {
               <span className="text-xl font-bold">Sync3</span>
             </div>
             <button className="bg-yellow-400 hover:bg-yellow-500 text-black font-semibold py-2 px-6 rounded-full transition-all">
+              <a className='h-full w-full' href="https://t.me/zeroxkrishna" target='_blank'>
+              
               Contact Us
+              </a>
             </button>
           </nav>
         </header>
